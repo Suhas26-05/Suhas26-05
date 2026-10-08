@@ -16,7 +16,7 @@
 - 💻 Software developer who enjoys building practical, real-world apps
 - 🛠️ Currently focused on full-stack development and clean, maintainable code
 - 📚 Always learning: algorithms, system design, and modern web tooling
-- 📫 Reach me at: **kodakandlasuhas66@example.com**
+- 📫 Reach me at: **kodakandlasuhas66@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/suhas-kodakandla/**
 - 🔗 Portfolio: **https://suhas26-05.github.io/MyPortfolio/** 
 
@@ -51,8 +51,9 @@
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suhas-kodakandla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kodakandlasuhas66@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐ If you like my work, drop a star on a repo!</i></p>
